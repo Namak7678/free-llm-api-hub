@@ -262,3 +262,12 @@ Thanks to everyone who has verified an entry, fixed a link, or improved the proj
 
 [MIT](LICENSE) — free to reuse, fork, and adapt, including the dataset. A link back is appreciated but not required.
 
+
+
+---
+
+### N3mak AI agent
+
+Business agent on Telegram: exposure checks, website dossiers, instant quoting.
+Try: https://t.me/N3mak_bot?start=gh_free_llm_api_hub
+Listing: https://namak7678.github.io/n3mak-ai-agent/
